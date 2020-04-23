@@ -1,0 +1,606 @@
+,city,headline,accented_city,countrycode,latitude,longitude,pop
+0,Miami,Zika Outbreak Hits Miami,Miami,US,25.77427,-80.19366,441003.0
+1,New York City,Could Zika Reach New York City?,New York City,US,40.71427,-74.00597,8175133.0
+2,Miami Beach,First Case of Zika in Miami Beach,Miami Beach,US,25.79065,-80.13005,92312.0
+3,Recife,"Mystery Virus Spreads in Recife, Brazil",Recife,BR,-8.05389,-34.88111,1478098.0
+4,Dallas,Dallas man comes down with case of Zika,Dallas,US,32.78306,-96.80667,1300092.0
+5,Trinidad,Trinidad confirms first Zika case,Trinidad,BO,-14.83333,-64.9,84259.0
+6,Houston,Zika Concerns are Spreading in Houston,Houston,US,29.76328,-95.36327,2296224.0
+7,Geneve,Geneve Scientists Battle to Find Cure,Genève,CH,46.20222,6.14569,183981.0
+8,Atlanta,The CDC in Atlanta is Growing Worried,Atlanta,US,33.749,-84.38798,463878.0
+9,Sao Paulo,Zika Infested Monkeys in Sao Paulo,São Paulo,BR,-23.5475,-46.63611,10021295.0
+10,Brownsville,Brownsville teen contracts Zika virus,Brownsville,US,25.90175,-97.49748,183887.0
+11,St. Louis,Mosquito control efforts in St. Louis take new tactics with Zika threat,St. Louis,US,38.62727,-90.19789,315685.0
+12,San Juan,San Juan reports 1st U.S. Zika-related death amid outbreak,San Juan,AR,-31.5375,-68.53639,447048.0
+13,Galveston,"Flu outbreak in Galveston, Texas",Galveston,US,29.30135,-94.7977,50180.0
+14,Manila,"Zika alert aEUR"" Manila now threatened",Manila,PH,14.6042,120.9822,1600000.0
+15,Iloilo,Zika afflicts 7 in Iloilo City,Iloilo,PH,10.69694,122.56444,387681.0
+16,Los Angeles,New Los Angeles Hairstyle goes Viral,Los Angeles,US,34.05223,-118.24368,3971883.0
+18,Orlando,Orlando volunteers aid Zika research,Orlando,US,28.53834,-81.37924,270934.0
+20,Chicago,Chicago's First Zika Case Confirmed,Chicago,US,41.85003,-87.65005,2720546.0
+21,Tampa,Tampa Bay Area Zika Case Count Climbs,Tampa,US,27.94752,-82.45843,369075.0
+22,Flint,"Bad Water Leads to Sickness in Flint, Michigan",Flint,US,43.01253,-83.68746,98310.0
+23,Baltimore,Baltimore plans for Zika virus,Baltimore,US,39.29038,-76.61219,621849.0
+24,London,London Health Unit Tracks Mad Cow Disease,London,GB,51.50853,-0.12574,7556900.0
+25,Ho Chi Minh City,Zika cases in Vietnam's Ho Chi Minh City surge,Ho Chi Minh City,VN,10.82302,106.62965,3467331.0
+26,Philadelphia,Philadelphia experts track pandemic,Philadelphia,US,39.95233,-75.16379,1567442.0
+27,Boston,Flu season hits Boston,Boston,US,42.35843,-71.05977,667137.0
+28,Paris,Scientists in Paris to look for answers,Paris,FR,48.85341,2.3488,2138551.0
+29,San Diego,Key Zika Findings in San Diego Institute,San Diego,US,32.71571,-117.16472,1394928.0
+30,Bangkok,Thailand-Zika Virus in Bangkok,Bangkok,TH,13.75398,100.50144,5104476.0
+31,Beijing,Beijing team cracks Zika secret,Beijing,CN,39.9075,116.39723,11716620.0
+32,Salvador,Zika spreading to Salvador,Salvador,BR,-12.97111,-38.51083,2711840.0
+33,Kuala Lumpur,Kuala Lumpur is Hit By Zika Threat,Kuala Lumpur,MY,3.1412,101.68653,1453975.0
+34,Yangon,First Zika case confirmed in Yangon,Yangon,MM,16.80528,96.15611,4477638.0
+35,Tallahassee,Tallahassee Doctors Discuss Zika Virus,Tallahassee,US,30.43826,-84.28073,189907.0
+36,San Francisco,Zika Virus Reaches San Francisco,San Francisco,US,37.77493,-122.41942,864816.0
+37,Bethesda,New Vaccine on Trial in Bethesda District,Bethesda,US,38.98067,-77.10026,60858.0
+38,Townsville,Townsville Zika tests inconclusive,Townsville,AU,-19.26639,146.80569,196219.0
+39,Mandaluyong City,Mandaluyong City under Siege by Virus,Mandaluyong City,PH,14.5832,121.0409,305576.0
+40,Santa Rosa,Hepatitis E re-emerges in Santa Rosa,Santa Rosa,PH,14.31222,121.11139,216650.0
+41,San Salvador,Zika worries in San Salvador,San Salvador,SV,13.68935,-89.18718,525990.0
+42,Cleveland,Zika virus reported in Cleveland,Cleveland,US,41.4995,-81.69541,388072.0
+43,Austin,More Zika patients reported in Austin,Austin,US,30.26715,-97.74306,931830.0
+44,Piracicaba,"Zika outbreak in Piracicaba, Brazil",Piracicaba,BR,-22.72528,-47.64917,342209.0
+45,Lima,Lima tries to address Zika Concerns,Lima,PE,-12.04318,-77.02824,7737002.0
+46,Toronto,More people in Toronto are infected with Hepatitis E every year,Toronto,CA,43.70011,-79.4163,2600000.0
+47,Bogota,18 new Zika Cases in Bogota,Bogotá,CO,4.60971,-74.08175,7674366.0
+49,Brisbane,Brisbane is infested with Meningitis,Brisbane,AU,-27.46794,153.02809,2189878.0
+50,Dakar,Cholera outbreak in Dakar,Dakar,SN,14.6937,-17.44406,2476400.0
+51,Havana,Zika Virus Transmission Detected in Havana,Havana,CU,23.13302,-82.38304,2163824.0
+52,Key West,Zika symtomps spotted in Key West,Key West,US,24.55524,-81.78163,25755.0
+53,Vancouver,Case of Measles Reported in Vancouver,Vancouver,CA,49.24966,-123.11934,600000.0
+54,Seattle,"Seattle scientists get $500,000 grant to pursue Zika vaccine New 7:50 pm",Seattle,US,47.60621,-122.33207,684451.0
+55,Nashville,Nashville takes precautions against Zika,Nashville,US,36.16589,-86.78444,530852.0
+56,Saint Croix,Saint Croix under Zika threat,Saint Croix,VI,17.72751,-64.74698,50601.0
+57,Fort Collins,Fort Collins Encounters Severe Symptoms of Gonorrhea,Fort Collins,US,40.58526,-105.08442,161175.0
+58,Klang,"Zika surfaces in Klang, Malaysia",Klang,MY,3.03667,101.44333,879867.0
+59,Guatemala City,Rumors about Meningitis spreading in Guatemala City have been refuted,Guatemala City,GT,14.64072,-90.51327,994938.0
+60,Madison,Madison lab developing vaccine against Zika virus [The Wisconsin State Journal],Madison,US,43.07305,-89.40123,248951.0
+61,Sarasota,New Zika Case Confirmed in Sarasota County,Sarasota,US,27.33643,-82.53065,55118.0
+62,Entebbe,Lower Hospitalization in Entebbe after Rabies Vaccine becomes Mandatory,Entebbe,UG,0.05621,32.47949,62969.0
+64,Brasilia,Second Zika Paitient in Brasilia,Brasília,BR,-15.77972,-47.92972,2207718.0
+65,Jacksonville,Jacksonville man hit by Zika,Jacksonville,US,30.33218,-81.65565,868031.0
+66,Shenzhen,Schools in Shenzhen Closed Due to Malaria Outbreak,Shenzhen,CN,22.54554,114.0683,10358381.0
+67,Caracas,Caracas patient dies,Caracas,VE,10.48801,-66.87919,3000000.0
+68,Quezon City,More Quezon City Zika Transmissions,Quezon City,PH,14.6488,121.0509,2761720.0
+69,Sydney,Schools in Sydney Closed Due to Respiratory Syncytial Virus Outbreak,Sydney,AU,-33.86785,151.20732,4627345.0
+70,Mumbai,Mumbai's Health Minister warns of more Zika cases,Mumbai,IN,19.07283,72.88261,12691836.0
+71,Pune,Pune woman diagnosed with Zika,Pune,IN,18.51957,73.85535,2935744.0
+72,Hanoi,Hospitals in Hanoi fill up with Zika patients,Hanoi,VN,21.0245,105.84117,1431270.0
+74,Silver Spring,Authorities are Worried about the Spread of Bronchitis in Silver Spring,Silver Spring,US,38.99067,-77.02609,71452.0
+75,Delhi,Zika: Delhi for strict monitoring,Delhi,IN,28.65195,77.23149,10927986.0
+77,Belize City,Belize City under threat from Zika,Belize City,BZ,17.49952,-88.19756,61461.0
+78,Campinas,"Student sick in Campinas, Brazil",Campinas,BR,-22.90556,-47.06083,1031554.0
+79,Soyapango,More Zika cases in Soyapango,Soyapango,SV,13.71024,-89.13989,329708.0
+80,Rome,Authorities are Worried about the Spread of Mad Cow Disease in Rome,Rome,IT,41.89193,12.51133,2318895.0
+81,Seoul,Seoul confirms 14th Zika infection,Seoul,KR,37.566,126.9784,10349312.0
+82,Quebec,Hepatitis B Vaccine is now Required in Quebec,Québec,CA,46.81228,-71.21454,528595.0
+83,Mexico City,Zika outbreak spreads to Mexico City,Mexico City,MX,19.42847,-99.12766,12294193.0
+84,Rochester,Rochester authorities confirmed the spread of Dengue,Rochester,US,43.15478,-77.61556,209802.0
+85,El Paso,El Paso fighting Zika,El Paso,US,31.75872,-106.48693,681124.0
+86,Cucuta,Visitor to Cucuta contracts Zika,Cúcuta,CO,7.89391,-72.50782,721398.0
+87,Jakarta,Zika now spreading through Jakarta,Jakarta,ID,-6.21462,106.84513,8540121.0
+89,Salt Lake City,Salt Lake City tests new cure for Respiratory Syncytial Virus,Salt Lake City,US,40.76078,-111.89105,192672.0
+90,San Antonio,Zika San Antonio Patient Speaks Out,San Antonio,US,29.42412,-98.49363,1469845.0
+91,Kampala,Ebola outbreak in Kampala,Kampala,UG,0.31628,32.58219,1353189.0
+92,Rockhampton,Precautionary Zika measures in Rockhampton,Rockhampton,AU,-23.38032,150.50595,61724.0
+93,Tegucigalpa,Zika arrives in Tegucigalpa,Tegucigalpa,HN,14.0818,-87.20681,850848.0
+94,Belo Horizonte,New Zika Case Confirmed in Belo Horizonte,Belo Horizonte,BR,-19.92083,-43.93778,2373224.0
+95,Melbourne,Case of Hepatitis E Reported in Melbourne,Melbourne,AU,-37.814,144.96332,4246375.0
+96,Columbus,First Columbus Zika case,Columbus,US,39.96118,-82.99879,850106.0
+97,Taipei,New medicine wipes out Tuberculosis in Taipei,Taipei,TW,25.04776,121.53185,7871900.0
+98,Seminole,"Zika Patient in Seminole, Florida",Seminole,US,27.83975,-82.79121,18153.0
+99,Antipolo,Antipolo under threat from Zika Virus,Antipolo,PH,14.62578,121.12251,549543.0
+100,Bacoor,Spreading Zika reaches Bacoor,Bacoor,PH,14.45896,120.93851,356974.0
+101,Can,Can Zika make it here to Vero Beach?,Çan,TR,40.03328,27.05236,26201.0
+102,Calamba,Zika afflicts patient in Calamba,Calamba,PH,14.21167,121.16528,316612.0
+103,Hollywood,Hollywood Outbreak Film Premieres,Hollywood,US,34.09834,-118.32674,167664.0
+104,Petaling Jaya,Petaling Jaya man ill from Zika,Petaling Jaya,MY,3.10726,101.60671,520698.0
+105,Johannesburg,Malaria is Spreading in Johannesburg,Johannesburg,ZA,-26.20227,28.04363,2026469.0
+106,Buenos Aires,Authorities are Worried about the Spread of Norovirus in Buenos Aires,Buenos Aires,AR,-34.61315,-58.37723,13076300.0
+107,Guangzhou,Guangzhou Patient in Critical Condition after Contracting Swine Flu,Guangzhou,CN,23.11667,113.25,11071424.0
+108,Doral,Doral hit by Deadly Virus,Doral,US,25.81954,-80.35533,56035.0
+109,Tokyo,Tokyo Encounters Severe Symptoms of Meningitis,Tokyo,JP,35.6895,139.69171,8336599.0
+110,Hamilton,Rabies Exposure in Hamilton,Hamilton,CA,43.25011,-79.84963,519949.0
+111,Savannah,Authorities are Worried about the Spread of Influenza in Savannah,Savannah,US,32.08354,-81.09983,145674.0
+112,Hyderabad,Zika Outbreak in Hyderabad,Hyderabad,IN,17.38405,78.45636,3597816.0
+113,Birmingham,Birmingham Residents Recieve Rabies vaccine,Birmingham,GB,52.48142,-1.89983,984333.0
+114,Majuro,Is Zika virus in Majuro?,Majuro,MH,7.08971,171.38027,25400.0
+115,Cancun,Spreading Zika ruining Cancun fun,Cancún,MX,21.17429,-86.84656,628306.0
+116,Cancun,Cancun hit by Outbreak of Party Fever!,Cancún,MX,21.17429,-86.84656,628306.0
+117,Fairfax,HIV has Arrived in Fairfax,Fairfax,US,38.84622,-77.30637,24013.0
+118,Barcelona,Spanish Flu Outbreak in Barcelona,Barcelona,ES,41.38879,2.15899,1621537.0
+119,Santa Barbara,Santa Barbara tests new cure for Hepatitis C,Santa Barbara,US,34.42083,-119.69819,91842.0
+120,Spring,Spring break ruined by Zika in Fort Lauderdale,Spring,US,30.07994,-95.41716,54298.0
+121,Villavicencio,Villavicencio under Zika threat,Villavicencio,CO,4.142,-73.62664,321717.0
+122,Laredo,Two more Zika cases confirmed in Laredo,Laredo,US,27.50641,-99.50754,255473.0
+123,New Delhi,New Delhi Addressing Zika Concerns,New Delhi,IN,28.63576,77.22445,317797.0
+124,Kota Kinabalu,"New Zika Case in Kota Kinabalu, Malaysia",Kota Kinabalu,MY,5.9749,116.0724,457326.0
+125,Ventura,New medicine wipes out West Nile Virus in Ventura,Ventura,US,34.27834,-119.29317,96769.0
+126,Nassau,Meningitis re-emerges in Nassau,Nassau,BS,25.05823,-77.34306,227940.0
+127,Johor Bahru,"Zika reaches Johor Bahru, Malaysia",Johor Bahru,MY,1.4655,103.7578,802489.0
+128,Nha Trang,Nha Trang Zika Outbreak,Nha Trang,VN,12.24507,109.19432,283441.0
+129,Cincinnati,First Zika Case in Cincinnati,Cincinnati,US,39.12711,-84.51439,296943.0
+130,Molo,Molo Cholera Spread Causing Concern,Molo,KE,-0.24849,35.73194,27896.0
+131,Hong Kong,Norovirus Exposure in Hong Kong,Hong Kong,HK,22.27832,114.17469,7012738.0
+132,Sengkang,19 new Zika Cases in Sengkang,Sengkang,ID,-4.1279,120.0297,59523.0
+133,Charlotte,Zika cases concern Charlotte residents,Charlotte,US,35.22709,-80.84313,827097.0
+134,Batangas,Batangas Tourism Takes a Hit as Virus Spreads,Batangas,PH,13.7567,121.0584,237370.0
+135,Johannesburg,Johannesburg Patient in Critical Condition after Contracting Pneumonia,Johannesburg,ZA,-26.20227,28.04363,2026469.0
+136,Bacolod City,Outbreak of Zika in Bacolod City,Bacolod City,PH,10.66667,122.95,454898.0
+137,Masaya,Respiratory Syncytial Virus Keeps Spreading in Masaya,Masaya,NI,11.97444,-86.09417,130113.0
+138,Springfield,Spike of Pneumonia Cases in Springfield,Springfield,US,37.21533,-93.29824,166810.0
+140,Jupiter,Zika case reported in Jupiter,Jupiter,US,26.93422,-80.09421,62707.0
+141,Westchester,Zika virus confirmed in Westchester,Westchester,US,25.75482,-80.32727,29862.0
+142,Abuja,Authorities are Worried about the Spread of Tuberculosis in Abuja,Abuja,NG,9.05785,7.49508,590400.0
+143,San Juan Capistrano,Rumors about Hepatitis D Spreading in San Juan Capistrano have been Refuted,San Juan Capistrano,US,33.50169,-117.66255,36454.0
+144,Spokane,The Spread of Measles in Spokane has been Confirmed,Spokane,US,47.65966,-117.42908,213272.0
+145,Rio Grande,Zika alert for Rio Grande Valley residents,Río Grande,AR,-53.78769,-67.70946,52681.0
+146,Colombo,Zika symptoms spotted in Colombo,Colombo,LK,6.93548,79.84868,648034.0
+147,Louisville,West Nile Virus Outbreak in Louisville,Louisville,US,38.25424,-85.75941,243639.0
+148,Baton Rouge,New details in Baton Rouge cop killings,Baton Rouge,US,30.44332,-91.18747,228590.0
+149,Florence,Hepatitis B has not Left Florence,Florence,IT,43.77925,11.24626,349296.0
+150,Pensacola,More Zika patients reported in Pensacola,Pensacola,US,30.42131,-87.21691,53193.0
+151,Corpus Christi,Outbreak of Zika in Corpus Christi,Corpus Christi,US,27.80058,-97.39638,324074.0
+152,Lemon Grove,How to Avoid Rhinovirus in Lemon Grove,Lemon Grove,US,32.74255,-117.03142,26709.0
+153,Huntsville,Rumors about Rotavirus spreading in Huntsville have been refuted,Huntsville,US,34.7304,-86.58594,190582.0
+154,Athens,Rhinovirus has Arrived in Athens,Athens,GR,37.98376,23.72784,664046.0
+155,Panama City,Outbreak of Zika in Panama City,Panama City,US,30.15946,-85.65983,38286.0
+157,Brooklyn,Measles has not Left Brooklyn,Brooklyn,US,40.6501,-73.94958,2300664.0
+158,Escondido,Escondido neighborhood to get sprayed for Zika virus,Escondido,US,33.11921,-117.08642,151451.0
+159,Belmont,"Zika in Belmont, Belmont worry",Belmont,US,37.52021,-122.2758,27218.0
+160,Sacramento,Influenza has not Left Sacramento,Sacramento,US,38.58157,-121.4944,490712.0
+161,Veracruz,Veracruz hit by Zika Concerns,Veracruz,MX,19.18095,-96.1429,428323.0
+162,Dayton,Case of Mumps Reported in Dayton,Dayton,US,39.75895,-84.19161,140599.0
+163,Kingston,Authorities are Worried about the Spread of Dengue in Kingston,Kingston,JM,17.99702,-76.79358,937700.0
+164,Gainesville,Gainesville Deals with Disease Concerns,Gainesville,US,29.65163,-82.32483,130128.0
+165,Montevideo,Montevideo Encounters Severe Symptoms of Rotavirus,Montevideo,UY,-34.90328,-56.18816,1270737.0
+166,Detroit,Varicella Keeps Spreading in Detroit,Detroit,US,42.33143,-83.04575,677116.0
+167,Arhus,Arhus is infested with Bronchitis,Århus,DK,56.15674,10.21076,237551.0
+168,Niteroi,Zika Troubles come to Niteroi,Niterói,BR,-22.88333,-43.10361,456456.0
+169,Singapore,Zika cases in Singapore reach 393,Singapore,SG,1.28967,103.85007,3547809.0
+170,Manhattan,Manhattan Residents Recieve HIV vaccine,Manhattan,US,40.78343,-73.96625,1487536.0
+171,Miri,Zika arrives in Miri,Miri,MY,4.39928,113.99163,228212.0
+172,Syracuse,Rumors about Dengue Spreading in Syracuse have been Refuted,Syracuse,US,43.04812,-76.14742,144142.0
+173,Raleigh,Will Norovirus vaccine help Raleigh?,Raleigh,US,35.7721,-78.63861,451066.0
+174,Auckland,Lower Hospitalization in Auckland after Hepatitis D Vaccine becomes Mandatory,Auckland,NZ,-36.84853,174.76349,417910.0
+175,Shreveport,How to Avoid Gonorrhea in Shreveport,Shreveport,US,32.52515,-93.75018,197204.0
+176,Ithaca,Ithaca is infested with Dengue,Ithaca,US,42.44063,-76.49661,30788.0
+177,Strasbourg,Will MCD vaccine help Strasbourg?,Strasbourg,FR,48.58392,7.74553,274845.0
+178,Fresno,New medicine wipes out Measles in Fresno,Fresno,US,36.74773,-119.77237,520052.0
+179,Missoula,"BREAKING aEUR"" Zika in Missoula",Missoula,US,46.87215,-113.994,71022.0
+180,Santos,Zika arrives in Santos,Santos,BR,-23.96083,-46.33361,411403.0
+181,Belfort,Sick Livestock Leads to Serious Trouble for Belfort,Belfort,FR,47.64218,6.85385,54562.0
+182,Libreville,Hepatitis E has not Left Libreville,Libreville,GA,0.39241,9.45356,578156.0
+183,Tucson,New medicine wipes out Chikungunya in Tucson,Tucson,US,32.22174,-110.92648,531641.0
+184,Winnipeg,Norovirus has Arrived in Winnipeg,Winnipeg,CA,49.8844,-97.14704,632063.0
+185,Kansas City,Hepatitis B Comes to Kansas City,Kansas City,US,39.09973,-94.57857,475378.0
+186,Cambridge,More Patients in Cambridge are Getting Diagnosed with Chickenpox,Cambridge,GB,52.2,0.11667,158434.0
+187,Toledo,Chikungunya Exposure in Toledo,Toledo,US,41.66394,-83.55521,279789.0
+188,Lafayette,Is Lafayette prepared to combat Zika?,Lafayette,US,30.22409,-92.01984,127657.0
+189,Mecca,Mecca tests new cure for Chikungunya,Mecca,SA,21.42664,39.82563,1323624.0
+190,San Benito,Zika arrives in San Benito,San Benito,GT,16.91675,-89.91898,30764.0
+191,Harrisburg,Syphilis Outbreak in Harrisburg,Harrisburg,US,40.2737,-76.88442,49081.0
+192,North Miami,Zika Arrives in North Miami,North Miami,US,25.89009,-80.18671,62435.0
+193,Urbana,Urbana Encounters Severe Symptoms of Meningitis,Urbana,US,40.11059,-88.20727,42311.0
+194,Pittsburgh,Pittsburgh Residents Recieve Norovirus vaccine,Pittsburgh,US,40.44062,-79.99589,304391.0
+195,Denver,Chikungunya Hits Denver,Denver,US,39.73915,-104.9847,682545.0
+196,Tunapuna,Zika case recorded in Tunapuna A>>,Tunapuna,TT,10.65245,-61.38878,17758.0
+197,Mandalay,Spike of Respiratory Syncytial Virus Cases in Mandalay,Mandalay,MM,21.97473,96.08359,1208099.0
+198,Boulder,HIV Keeps Spreading in Boulder,Boulder,US,40.01499,-105.27055,107349.0
+199,Joao Pessoa,More Zika patients reported in Joao Pessoa,João Pessoa,BR,-7.115,-34.86306,650883.0
+200,Rockville,Will Tuberculosis vaccine help Rockville?,Rockville,US,39.084,-77.15276,66980.0
+201,Chatham,Mad Cow Disease Re-emerges in Chatham,Chatham,GB,51.37891,0.52786,75509.0
+202,Ontario,Zika Virus Arrives in Ontario,Ontario,US,34.06334,-117.65089,171214.0
+203,Naples,Mad Cow Disease Hits Naples,Naples,IT,40.85216,14.26811,959470.0
+204,Davao,More Zika patients reported in Davao,Davao,PH,7.07306,125.61278,1212504.0
+205,Arcadia,The Spread of Chikungunya in Arcadia has been Confirmed,Arcadia,US,34.13973,-118.03534,58408.0
+206,Oxford,Oxford tests new cure for HIV,Oxford,GB,51.75222,-1.25596,171380.0
+207,Stephenville,Outbreak of Zika in Stephenville,Stephenville,US,32.2207,-98.20226,20120.0
+208,Providence,Providence Encounters Severe Symptoms of Dengue,Providence,US,41.82399,-71.41283,179207.0
+209,Windsor,Tests negative on Windsor Zika carriers,Windsor,CA,42.30008,-83.01654,278013.0
+210,Valdosta,Zika battle outlined at Valdosta meeting,Valdosta,US,30.83334,-83.28032,55724.0
+211,Coral Gables,Zika case reported in Coral Gables,Coral Gables,US,25.72149,-80.26838,51117.0
+212,Danbury,Hepatitis C Outbreak in Danbury,Danbury,US,41.39482,-73.45401,84657.0
+213,Chula Vista,Chickenpox has Arrived in Chula Vista,Chula Vista,US,32.64005,-117.0842,265757.0
+214,Jefferson,Syphilis Hits Jefferson,Jefferson,US,38.86456,-77.18776,28487.0
+215,Las Vegas,Will HIV vaccine help Las Vegas?,Las Vegas,US,36.17497,-115.13722,623747.0
+216,West Palm Beach,Zika arrives in West Palm Beach,West Palm Beach,US,26.71534,-80.05337,106779.0
+217,Mobile,Mobile authorities confirmed the spread of Bronchitis,Mobile,US,30.69436,-88.04305,194288.0
+218,Daytona Beach,Zika spreads to Daytona Beach,Daytona Beach,US,29.21081,-81.02283,64736.0
+219,Lausanne,Lausanne Residents Recieve Meningitis vaccine,Lausanne,CH,46.516,6.63282,116751.0
+220,San Jose,Rhinovirus Comes to San Jose,San Jose,US,37.33939,-121.89496,1026908.0
+221,Farmington,Spike of Chlamydia Cases in Farmington,Farmington,US,36.72806,-108.21869,42871.0
+222,Union,Authorities are Worried about the Spread of Rotavirus in Union,Union,US,40.6976,-74.2632,56771.0
+223,Albany,Rumors about Hepatitis D spreading in Albany have been refuted,Albany,US,42.65258,-73.75623,98469.0
+224,Bello,Zika symptoms spotted in Bello,Bello,CO,6.33732,-75.55795,392939.0
+225,Hamburg,Will Meningitis vaccine help Hamburg?,Hamburg,DE,53.57532,10.01534,1739117.0
+226,Madera,Madera Patient in Critical Condition after Contracting Rabies,Madera,US,36.96134,-120.06072,64208.0
+227,Lubbock,Zika Virus Detected in Lubbock,Lubbock,US,33.57786,-101.85517,249042.0
+228,Boise,Malaria re-emerges in Boise,Boise,US,43.6135,-116.20345,145987.0
+229,Lagos,Varicella re-emerges in Lagos,Lagos,NG,6.45407,3.39467,9000000.0
+230,Ibadan,Vericella spreading in Ibadan,Ibadan,NG,7.37756,3.90591,3565108.0
+231,Birmingham,Schools in Birmingham Closed Due to Measles Outbreak,Birmingham,GB,52.48142,-1.89983,984333.0
+232,Waldorf,How to Avoid Hepatitis B in Waldorf,Waldorf,US,38.62456,-76.93914,67752.0
+235,Newark,Tuberculosis Outbreak in Newark,Newark,US,40.73566,-74.17237,281944.0
+236,Sparks,Zika Virus Sparks 'International Concern',Sparks,US,39.53491,-119.75269,96094.0
+237,Berlin,Spike of Chlamydia Cases in Berlin,Berlin,DE,52.52437,13.41053,3426354.0
+238,Ardmore,Zika-carrying mosquitoes discovered in Ardmore,Ardmore,US,34.17426,-97.14363,25176.0
+239,Florida,"Zika Mosquitoes May Have Bred in Bromeliads, Florida Officials Say",Florida,CU,21.52536,-78.22579,63007.0
+240,Fontainebleau,More Livestock in Fontainebleau are infected with Mad Cow Disease,Fontainebleau,FR,48.40908,2.70177,19717.0
+241,Frisco,Frisco Woman Tests Positive For Zika Virus,Frisco,US,33.15067,-96.82361,154407.0
+242,Dubai,Authorities are Worried about the Spread of Norovirus in Dubai,Dubai,AE,25.07725,55.30927,2956587.0
+243,Benton,Benton Residents Recieve Pneumonia vaccine,Benton,US,34.56454,-92.58683,34177.0
+244,Calgary,Case of Hepatitis A Reported in Calgary,Calgary,CA,51.05011,-114.08529,1019942.0
+245,Pinewood,Zika Outbreak in Pinewood,Pinewood,US,25.86898,-80.21699,16520.0
+246,Ljubljana,Will Swine Flu vaccine help Ljubljana?,Ljubljana,SI,46.05108,14.50513,272220.0
+247,Tehran,Bronchitis re-emerges in Tehran,Tehran,IR,35.69439,51.42151,7153309.0
+249,Murcia,Mad Cow case in Murcia,Murcia,ES,37.98704,-1.13004,436870.0
+250,Margate,Mad Cow Disease Spreads to Margate,Margate,GB,51.38132,1.38617,60134.0
+251,St. Petersburg,Zika Strikes St. Petersburg,St. Petersburg,US,27.77086,-82.67927,257083.0
+253,Vienna,Will the Mad Cow Outbreak Reach Vienna?,Vienna,AT,48.20849,16.37208,1691468.0
+254,Orange,More Patients in Orange are Getting Diagnosed with Chickenpox,Orange,US,33.78779,-117.85311,140992.0
+255,Richmond,Lower Hospitalization in Richmond after Mumps Vaccine becomes Mandatory,Richmond,US,37.55376,-77.46026,220289.0
+256,Medina,Meningitis re-emerges in Medina,Medina,SA,24.46861,39.61417,1300000.0
+258,Hidalgo,Four cases of Zika in Hidalgo County,Hidalgo,MX,25.97205,-100.45029,16524.0
+259,Hollywood,Zika symptoms spotted in Hollywood,Hollywood,US,34.09834,-118.32674,167664.0
+260,Oaxaca,Zika arrives in Oaxaca,Oaxaca,MX,17.06542,-96.72365,255029.0
+261,Durham,More people in Durham are infected with Chlamydia every year,Durham,US,35.99403,-78.89862,257636.0
+262,Taoyuan City,Authorities are Worried about the Spread of Gonorrhea in Taoyuan City,Taoyuan City,TW,24.99368,121.29696,402014.0
+263,La Jolla,Swine Flu re-emerges in La Jolla,La Jolla,US,32.84727,-117.2742,42808.0
+264,Hartford,Tuberculosis Outbreak in Hartford,Hartford,US,41.76371,-72.68509,124006.0
+265,New Bedford,Rumors about Mumps Spreading in New Bedford have been Refuted,New Bedford,US,41.63526,-70.92701,94958.0
+266,Tulsa,Respiratory Syncytial Virus Vaccine is now Required in Tulsa,Tulsa,US,36.15398,-95.99277,403505.0
+267,Indianapolis,More people in Indianapolis are infected with Norovirus every year,Indianapolis,US,39.76838,-86.15804,829718.0
+268,Dhaka,Lower Hospitalization in Dhaka after Measles Vaccine becomes Mandatory,Dhāka,IN,26.67479,85.16698,36111.0
+269,Albany,Albany Residents Recieve Respiratory Syncytial Virus vaccine,Albany,US,42.65258,-73.75623,98469.0
+271,Starkville,Rotavirus Vaccine is now Required in Starkville,Starkville,US,33.45049,-88.81961,25366.0
+272,Yaounde,Schools in Yaounde Closed Due to Mumps Outbreak,Yaoundé,CM,3.86667,11.51667,1299369.0
+273,Nadi,More people in Nadi are infected with HIV every year,Nadi,FJ,-17.80309,177.41617,42284.0
+274,Tocumen,Tocumen tests new cure for Hepatitis A,Tocumen,PA,9.08939,-79.3831,50844.0
+275,Phnom Penh,Phnom Penh hit by Zika Threat,Phnom Penh,KH,11.56245,104.91601,1573544.0
+276,Harlingen,Zika Troubles come to Harlingen,Harlingen,US,26.19063,-97.6961,65774.0
+277,Barranquilla,Zika spreads to Barranquilla,Barranquilla,CO,10.96854,-74.78132,1380425.0
+278,Milwaukee,Milwaukee authorities confirmed the spread of Rhinovirus,Milwaukee,US,43.0389,-87.90647,600155.0
+279,Rotterdam,Mad Cow Disease Hits Rotterdam,Rotterdam,NL,51.9225,4.47917,598199.0
+280,Arlington,Zika symptoms spotted in Arlington,Arlington,US,32.73569,-97.10807,388125.0
+281,Yogyakarta,West Nile Virus Hits Yogyakarta,Yogyakarta,ID,-7.80139,110.36472,636660.0
+282,Dublin,More Patients in Dublin are Getting Diagnosed with Bronchitis,Dublin,IE,53.33306,-6.24889,1024027.0
+283,Baud,Rumors about Tuberculosis Spreading in Baud have been Refuted,Baud,IN,20.83773,84.32618,18945.0
+284,Salem,Rumors about West Nile Virus Spreading in Salem have been Refuted,Salem,IN,11.65376,78.15538,778396.0
+285,St. Catharines,St. Catharines Patient in Critical Condition after Contracting Dengue,St. Catharines,CA,43.17126,-79.24267,131989.0
+287,Camacari,More Zika patients reported in Camacari,Camaçari,BR,-12.6975,-38.32417,188758.0
+288,Pasig City,Outbreak of Zika in Pasig City,Pasig City,PH,14.58691,121.0614,617301.0
+289,Kampong Cham,Zika Troubles come to Kampong Cham,Kampong Cham,KH,11.99339,105.4635,61750.0
+290,Rizal,Zika case reported in Rizal,Rizal,PH,15.7118,121.1061,26201.0
+291,Palm Beach Gardens,Zika Spreads to Palm Beach Gardens,Palm Beach Gardens,US,26.82339,-80.13865,52923.0
+292,Saint Petersburg,More people in Saint Petersburg are infected with Varicella every year,Saint Petersburg,RU,59.93863,30.31413,5028000.0
+293,Meriden,Spike of Herpes Cases in Meriden,Meriden,US,41.53815,-72.80704,59988.0
+294,Abilene,Zika case reported in Abilene,Abilene,US,32.44874,-99.73314,121721.0
+295,Palm Springs,Outbreak of Zika in Palm Springs,Palm Springs,US,33.8303,-116.54529,47371.0
+296,Halifax,Halifax is infested with Swine Flu,Halifax,CA,44.64533,-63.57239,359111.0
+297,Natal,Zika arrives in Natal,Natal,BR,-5.795,-35.20944,763043.0
+298,Rochester,Herpes Keeps Spreading in Rochester,Rochester,US,43.15478,-77.61556,209802.0
+299,Phetchabun,Zika case reported in Phetchabun,Phetchabun,TH,16.41904,101.16056,50656.0
+300,Bullhead City,How to Avoid Pneumonia in Bullhead City,Bullhead City,US,35.14778,-114.5683,39445.0
+301,Wellington,West Nile Virus re-emerges in Wellington,Wellington,NZ,-41.28664,174.77557,381900.0
+302,Ottawa,Rumors about Pneumonia spreading in Ottawa have been refuted,Ottawa,CA,45.41117,-75.69812,812129.0
+303,Summerville,Meningitis re-emerges in Summerville,Summerville,US,33.0185,-80.17565,48848.0
+304,Bloomington,Pneumonia Symptoms Spread all over Bloomington,Bloomington,US,44.8408,-93.29828,86435.0
+305,Stuttgart,More Patients in Stuttgart are Getting Diagnosed with Rabies,Stuttgart,DE,48.78232,9.17702,589793.0
+306,Glasgow,Schools in Glasgow Closed Due to Hepatitis B Outbreak,Glasgow,GB,55.86515,-4.25763,591620.0
+307,Phoenix,Phoenix Residents Recieve Syphilis vaccine,Phoenix,US,33.44838,-112.07404,1563025.0
+309,Madrid,Spanish flu spreading in Madrid,Madrid,ES,40.4165,-3.70256,3255944.0
+310,Madrid,Rabies Hits Madrid,Madrid,ES,40.4165,-3.70256,3255944.0
+311,Weslaco,Zika Outbreak in Weslaco,Weslaco,US,26.15952,-97.99084,39474.0
+312,Santiago,How to Avoid Chlamydia in Santiago,Santiago,CL,-33.45694,-70.64827,4837295.0
+313,Las Cumbres,Rotavirus Vaccine is now Required in Las Cumbres,Las Cumbres,PA,9.08916,-79.52809,69102.0
+314,Jefferson,Mumps Symptoms Spread all over Jefferson,Jefferson,US,38.86456,-77.18776,28487.0
+315,Ennis,Mad Cow Outbreak Spreading in Ennis,Ennis,IE,52.84361,-8.98639,24427.0
+316,Southampton,Southampton Patient in Critical Condition after Contracting Tuberculosis,Southampton,GB,50.90395,-1.40428,246201.0
+317,Boardman,The Spread of Rhinovirus in Boardman has been Confirmed,Boardman,US,41.02423,-80.66285,35376.0
+318,Richland,Richland Center is infested with Hepatitis B,Richland,US,46.28569,-119.28446,54248.0
+319,Richmond,Authorities are Worried about the Spread of Chickenpox in Richmond,Richmond,US,37.55376,-77.46026,220289.0
+320,Kobe,Chikungunya re-emerges in Kobe,Kobe,JP,34.6913,135.183,1528478.0
+321,Schenectady,Malaria Vaccine is now Required in Schenectady,Schenectady,US,42.81424,-73.93957,65305.0
+322,Grenoble,Hepatitis D has Arrived in Grenoble,Grenoble,FR,45.17869,5.71479,158552.0
+323,Yerevan,West Nile Virus Symptoms Spread all over Yerevan,Yerevan,AM,40.18111,44.51361,1093485.0
+324,Sincelejo,Zika Outbreak in Sincelejo,Sincelejo,CO,9.30472,-75.39778,261187.0
+325,Montpellier,Rumors about HIV spreading in Montpellier have been refuted,Montpellier,FR,43.61092,3.87723,248252.0
+326,Praia,Praia tests new cure for Pneumonia,Praia,CV,14.93152,-23.51254,113364.0
+328,Lakewood,Lower Hospitalization in Lakewood after Hepatitis B Vaccine becomes Mandatory,Lakewood,US,39.70471,-105.08137,152597.0
+329,Kuching,Zika spreads to Kuching,Kuching,MY,1.55,110.33333,570407.0
+330,Omaha,Spike of Rotavirus Cases in Omaha,Omaha,US,41.25626,-95.94043,443885.0
+331,Springs,Tuberculosis re-emerges in Silver Springs,Springs,ZA,-26.25,28.4,186394.0
+332,Coronado,Will West Nile Virus vaccine help Coronado?,Coronado,US,32.68589,-117.18309,24812.0
+333,Lorain,Zika case confirmed in Lorain,Lorain,US,41.45282,-82.18237,63647.0
+334,Simpsonville,Chickenpox Hits Simpsonville,Simpsonville,US,34.73706,-82.25428,20736.0
+335,Framingham,Framingham Residents Receive Measles vaccine,Framingham,US,42.27926,-71.41617,68318.0
+336,Brighton,Rumors about Mad Cow Disease Brighton have been Refuted,Brighton,GB,50.82838,-0.13947,139001.0
+337,Jacobina,Zika case reported in Jacobina,Jacobina,BR,-11.18143,-40.51372,47637.0
+338,Bridgeport,Bridgeport authorities confirmed the spread of West Nile Virus,Bridgeport,US,41.17923,-73.18945,147629.0
+340,Wailuku,Measles Vaccine is now Required in Wailuku,Wailuku,US,20.89133,-156.50604,15313.0
+341,Surat,Zika symptoms spotted in Surat,Sūrat,IN,21.19594,72.83023,2894504.0
+343,Bedford,More contaminated cattle reported in Bedford,Bedford,GB,52.13459,-0.46632,106940.0
+344,Tamarac,Zika in Tamarac!,Tamarac,US,26.21286,-80.24977,64681.0
+345,Milford,Will Measles vaccine help Milford?,Milford,US,41.22232,-73.0565,52759.0
+346,Huddersfield,Spike of Norovirus Cases in Huddersfield,Huddersfield,GB,53.64904,-1.78416,149017.0
+347,Bakersfield,Rhinovirus Hits Bakersfield,Bakersfield,US,35.37329,-119.01871,373640.0
+348,Papeete,Lower Hospitalization in Papeete after Measles Vaccine becomes Mandatory,Papeete,PF,-17.53733,-149.5665,26357.0
+349,Udon Thani,Zika arrives in Udon Thani,Udon Thani,TH,17.41567,102.78589,247231.0
+350,Stockholm,Spike of Dengue Cases in Stockholm,Stockholm,SE,59.33258,18.0649,1515017.0
+351,Berkeley,More people in Berkeley are infected with Swine Flu every year,Berkeley,US,37.87159,-122.27275,120972.0
+353,New Orleans,Zika only the latest mosquito-borne threat to New Orleans,New Orleans,US,29.95465,-90.07507,389617.0
+354,Annapolis,Will Swine Flu vaccine help Annapolis?,Annapolis,US,38.97845,-76.49218,39474.0
+355,Monroe,Lower Hospitalization in Monroe after Hepatitis D Vaccine becomes Mandatory,Monroe,US,32.50931,-92.1193,49598.0
+356,Saginaw,New medicine wipes out Dengue in Saginaw,Saginaw,US,43.41947,-83.95081,49347.0
+357,Sevierville,Spike of Rhinovirus Cases in Sevierville,Sevierville,US,35.86815,-83.56184,16490.0
+358,Duisburg,Duisburg up in Arms over Mad Cow Disease,Duisburg,DE,51.43247,6.76516,504358.0
+359,Saint Charles,New medicine wipes out Mumps in Saint Charles,Saint Charles,US,38.78394,-90.48123,65794.0
+360,Gaithersburg,Case of Chikungunya Reported in Gaithersburg,Gaithersburg,US,39.14344,-77.20137,67456.0
+361,San Bernardino,How to Avoid Respiratory Syncytial Virus in San Bernardino,San Bernardino,US,34.10834,-117.28977,216108.0
+362,Laventille,Laventille authorities confirmed the spread of Rhinovirus,Laventille,TT,10.64917,-61.49889,21000.0
+363,Waco,More Zika patients reported in Waco,Waco,US,31.54933,-97.14667,132356.0
+364,Newcastle,Will Herpes vaccine help Newcastle?,Newcastle,ZA,-27.75796,29.9318,404838.0
+365,Erie,Erie County sets Zika traps,Erie,US,42.12922,-80.08506,99475.0
+367,Greenville,How to Avoid Norovirus in Greenville,Greenville,US,35.61266,-77.36635,90597.0
+368,Calumpang,More Zika patients reported in Calumpang,Calumpang,PH,14.6228,121.0897,15589.0
+369,Quisqueya,Zika symptoms spotted in Quisqueya,Quisqueya,DO,18.55542,-69.40814,17694.0
+370,Montreal,Rumors about Hepatitis D Spreading in Montreal have been Refuted,Montréal,CA,45.50884,-73.58781,1600000.0
+371,Fortaleza,Zika symptoms spotted in Fortaleza,Fortaleza,BR,-3.71722,-38.54306,2400000.0
+372,Bundaberg,Rumors about Bronchitis spreading in Bundaberg have been refuted,Bundaberg,AU,-24.86621,152.3479,70826.0
+373,Stamford,Hepatitis A re-emerges in Stamford,Stamford,US,41.05343,-73.53873,128874.0
+374,Huntington,Schools in Huntington Closed Due to Rotavirus Outbreak,Huntington,US,38.41925,-82.44515,48638.0
+375,Bristol,Will Mad Cow Vaccine Help Bristol?,Bristol,GB,51.45523,-2.59665,617280.0
+376,Stillwater,Chickenpox Comes to Stillwater,Stillwater,US,36.11561,-97.05837,48967.0
+377,Imperial,The Spread of Meningitis in Imperial has been Confirmed,Imperial,PE,-13.05927,-76.35269,32344.0
+380,Springdale,Case of Measles Reported in Springdale,Springdale,US,36.18674,-94.12881,77859.0
+381,Norwalk,Norwalk Encounters Severe Symptoms of Malaria,Norwalk,US,33.90224,-118.08173,107140.0
+382,Orange,Zika arrives in Orange City,Orange,US,33.78779,-117.85311,140992.0
+383,Pilsen,Pilsen Encounters Severe Symptoms of Malaria,Pilsen,CZ,49.74747,13.37759,164180.0
+384,La Paz,Will Hepatitis B vaccine help La Paz?,La Paz,BO,-16.5,-68.15,812799.0
+385,Puducherry,Zika Outbreak in Puducherry,Puducherry,IN,11.93381,79.82979,227411.0
+386,Carrollton,More Zika patients reported in Carrollton,Carrollton,US,32.95373,-96.89028,133168.0
+387,Tangier,Will Rabies vaccine help Tangier?,Tangier,MA,35.76727,-5.79975,688356.0
+388,Iquitos,Zika symptoms spotted in Iquitos,Iquitos,PE,-3.74912,-73.25383,437620.0
+389,Racine,West Nile Virus Exposure in Racine,Racine,US,42.72613,-87.78285,77742.0
+390,Lansing,The Spread of Hepatitis E in Lansing has been Confirmed,Lansing,US,42.73253,-84.55553,115056.0
+391,Alpharetta,West Nile Virus Exposure in Alpharetta,Alpharetta,US,34.07538,-84.29409,63693.0
+392,Pedro Juan Caballero,Pedro Juan Caballero Encounters Severe Symptoms of Pneumonia,Pedro Juan Caballero,PY,-22.54722,-55.73333,75109.0
+393,Melbourne,More Zika patients reported in Melbourne,Melbourne,AU,-37.814,144.96332,4246375.0
+394,La Libertad,Zika Troubles come to La Libertad,La Libertad,EC,-2.233,-80.91039,75881.0
+395,Mattoon,Herpes Vaccine is now Required in Mattoon,Mattoon,US,39.48309,-88.37283,18113.0
+396,Kent,Kent is infested with Rabies,Kent,US,47.38093,-122.23484,126952.0
+397,Bonita Springs,Zika symptoms spotted in Bonita Springs,Bonita Springs,US,26.33981,-81.7787,51704.0
+398,Brazzaville,The Spread of Malaria in Brazzaville has been Confirmed,Brazzaville,CG,-4.26613,15.28318,1284609.0
+399,Fort Myers,More Zika patients reported in Fort Myers,Fort Myers,US,26.62168,-81.84059,74013.0
+400,Lewisville,Zika spreads to Lewisville,Lewisville,US,33.04623,-96.99417,104039.0
+401,Ogden,Ogden is infested with Gonorrhea,Ogden,US,41.223,-111.97383,85444.0
+402,Fort Hood,Fort Hood Reports its First Zika Patient,Fort Hood,US,31.13489,-97.77561,29589.0
+403,Huzhou,Huzhou Residents Receive Hepatitis B vaccine,Huzhou,CN,30.8703,120.0933,158320.0
+404,Newburgh,New medicine wipes out Rabies in Newburgh,Newburgh,US,41.50343,-74.01042,28290.0
+405,Iowa City,Iowa City Encounters Severe Symptoms of Rhinovirus,Iowa City,US,41.66113,-91.53017,74220.0
+406,Managua,Spike of Rabies Cases in Managua,Managua,NI,12.13282,-86.2504,973087.0
+407,Santa Elena,Outbreak of Zika in Santa Elena,Santa Elena,EC,-2.22622,-80.85873,42214.0
+408,Howard Beach,Mumps Hits Howard Beach,Howard Beach,US,40.65788,-73.83625,26148.0
+409,Reno,The Spread of Gonorrhea in Reno has been Confirmed,Reno,US,39.52963,-119.8138,241445.0
+410,Plainfield,How to Avoid Rhinovirus in Plainfield,Plainfield,US,40.63371,-74.40737,51217.0
+411,Carlsbad,Rumors about Varicella spreading in Carlsbad have been refuted,Carlsbad,US,33.15809,-117.35059,113453.0
+412,Scranton,Scranton authorities confirmed the spread of Gonorrhea,Scranton,US,41.40916,-75.6649,77118.0
+413,Brussels,Mad Cow Disease Disastrous to Brussels,Brussels,BE,50.85045,4.34878,1019022.0
+414,Olinda,Zika spreads to Olinda,Olinda,BR,-8.00889,-34.85528,366754.0
+415,Hallandale Beach,Hallandale Beach a Victim of Zika Outbreak,Hallandale Beach,US,25.9812,-80.14838,39488.0
+416,Storrs,Rhinovirus re-emerges in Storrs,Storrs,US,41.80843,-72.24952,15344.0
+417,Germantown,Germantown authorities confirmed the spread of Chickenpox,Germantown,US,39.17316,-77.27165,86395.0
+418,North Platte,Rumors about Rotavirus spreading in North Platte have been refuted,North Platte,US,41.12389,-100.76542,24194.0
+419,Golden,Spike of Hepatitis C Cases in Golden,Golden,US,39.75554,-105.2211,20330.0
+420,Ganja,Authorities are Worried about the Spread of Hepatitis D in Ganja,Ganja,AZ,40.68278,46.36056,313300.0
+421,Kathmandu,Dengue Exposure in Kathmandu,Kathmandu,NP,27.70169,85.3206,1442271.0
+422,Fairfield,Tuberculosis has Arrived in Fairfield,Fairfield,US,38.24936,-122.03997,112970.0
+423,Kozhikode,Outbreak of Zika in Kozhikode,Kozhikode,IN,11.24802,75.7804,439922.0
+424,Santa Fe,Bronchitis Symptoms Spread all over Santa Fe,Santa Fe,AR,-31.64881,-60.70868,489505.0
+425,Alexandria,More Patients in Alexandria are Getting Diagnosed with Mumps,Alexandria,EG,31.20176,29.91582,3811516.0
+426,Alhambra,Pneumonia Exposure in Alhambra,Alhambra,US,33.49838,-112.13432,127764.0
+427,Damascus,Hepatitis C re-emerges in Damascus,Damascus,SY,33.5102,36.29128,1569394.0
+428,Pekanbaru,Lower Hospitalization in Pekanbaru after Rotavirus Vaccine becomes Mandatory,Pekanbaru,ID,0.51667,101.44167,703956.0
+430,Bentonville,Schools in Bentonville Closed Due to Hepatitis B Outbreak,Bentonville,US,36.37285,-94.20882,44499.0
+431,Hammond,Hepatitis E Hits Hammond,Hammond,US,41.58337,-87.50004,77614.0
+432,Bridgeton,Schools in Bridgeton Closed Due to Mumps Outbreak,Bridgeton,US,39.42734,-75.23408,25031.0
+433,Biloxi,Biloxi Residents Recieve Chlamydia vaccine,Biloxi,US,30.39603,-88.88531,45637.0
+434,Hilden,Case of Mad Cow Disease Reported in Hilden,Hilden,DE,51.16818,6.93093,56565.0
+435,Khartoum,Rumors about Rabies Spreading in Khartoum have been Refuted,Khartoum,SD,15.55177,32.53241,1974647.0
+436,Harare,Harare is infested with Pneumonia,Harare,ZW,-17.82772,31.05337,1542813.0
+437,Sibu,Zika symptoms spotted in Sibu,Sibu,MY,2.3,111.81667,198239.0
+438,Quezon,Zika arrives in Quezon,Quezon,PH,7.73028,125.09889,27212.0
+439,Crawfordsville,More Patients in Crawfordsville are Getting Diagnosed with Rabies,Crawfordsville,US,40.04115,-86.87445,16024.0
+440,Greenville,Spike of Hepatitis B Cases in Greenville,Greenville,US,35.61266,-77.36635,90597.0
+441,Akron,Authorities are Worried about the Spread of Hepatitis D in Akron,Akron,US,41.08144,-81.51901,197542.0
+442,Nuevo Laredo,More Zika patients reported in Nuevo Laredo,Nuevo Laredo,MX,27.47629,-99.51639,373725.0
+443,San Mateo,Bronchitis Keeps Spreading in San Mateo,San Mateo,PH,14.6982,121.1236,134327.0
+444,Boca Raton,Zika arrives in Boca Raton,Boca Raton,US,26.35869,-80.0831,93235.0
+445,Bradenton,Bradenton Experiences Zika Troubles,Bradenton,US,27.49893,-82.57482,54437.0
+446,University City,Chlamydia Symptoms Spread all over University City,University City,US,38.65588,-90.30928,35058.0
+447,Wisconsin Rapids,Wisconsin Rapids Patient in Critical Condition after Contracting Chickenpox,Wisconsin Rapids,US,44.38358,-89.81735,17897.0
+448,Kissimmee,Zika spreads to Kissimmee,Kissimmee,US,28.30468,-81.41667,69152.0
+449,Fremont,Herpes Symptoms Spread all over Fremont,Fremont,US,37.54827,-121.98857,232206.0
+450,The Bronx,Spike of Pneumonia Cases in The Bronx,The Bronx,US,40.84985,-73.86641,1385108.0
+451,North Bay,Authorities are Worried about the Spread of Hepatitis D in North Bay,North Bay,CA,46.3168,-79.46633,50396.0
+452,Baku,The Spread of Herpes in Baku has been Confirmed,Baku,AZ,40.37767,49.89201,1116513.0
+453,Sochi,Will Measles vaccine help Sochi?,Sochi,RU,43.59917,39.72569,327608.0
+454,Caguas,Tuberculosis Symptoms Spread all over Caguas,Caguas,PR,18.23412,-66.0485,86804.0
+455,Tacoma,HIV has Arrived in Tacoma,Tacoma,US,47.25288,-122.44429,207948.0
+456,Nashua,Malaria re-emerges in Nashua,Nashua,US,42.76537,-71.46757,87970.0
+457,Arvada,Arvada is infested with Syphilis,Arvada,US,39.80276,-105.08748,115368.0
+458,Monroe,Spike of Syphilis Cases in West Monroe,Monroe,US,32.50931,-92.1193,49598.0
+459,Ribeirao Preto,More Zika patients reported in Ribeirao Preto,Ribeirão Preto,BR,-21.1775,-47.81028,619746.0
+461,Deerfield,Deerfield tests new cure for Measles,Deerfield,US,42.17114,-87.84451,19019.0
+462,Bonn,Contaminated Meat Brings Trouble for Bonn Farmers,Bonn,DE,50.73438,7.09549,313125.0
+464,Foster City,Hepatitis A re-emerges in Foster City,Foster City,US,37.55855,-122.27108,33477.0
+465,Santa Monica,How to Avoid Tuberculosis in Santa Monica,Santa Monica,US,34.01945,-118.49119,93220.0
+466,Fort Pierce,Zika reported in Fort Pierce,Fort Pierce,US,27.44671,-80.32561,44484.0
+467,Pyongyang,Authorities are Worried about the Spread of Syphilis in Pyongyang,Pyongyang,KP,39.03385,125.75432,3222000.0
+468,Winter Park,Zika spreads to Winter Park,Winter Park,US,28.6,-81.33924,29943.0
+469,Durango,Durango is infested with Hepatitis B,Durango,ES,43.17124,-2.6338,28229.0
+470,Staten Island,Hepatitis A has not Left Staten Island,Staten Island,US,40.56233,-74.13986,468730.0
+471,Mpika,Mpika authorities confirmed the spread of Chikungunya,Mpika,ZM,-11.83431,31.45287,28445.0
+472,Gladstone,Gladstone Encounters Severe Symptoms of Dengue,Gladstone,AU,-23.84852,151.25775,30489.0
+473,London,Mad Cow Disease Hits London,London,GB,51.50853,-0.12574,7556900.0
+474,New Milford,New Milford Patient in Critical Condition after Contracting Respiratory Syncytial Virus,New Milford,US,40.9351,-74.01903,16801.0
+475,Palo Alto,More people in Palo Alto are infected with HIV every year,Palo Alto,US,37.44188,-122.14302,66853.0
+476,Hinthada,HIV Symptoms Spread all over Hinthada,Hinthada,MM,17.64944,95.45705,134947.0
+477,Quito,Zika symptoms spotted in Quito,Quito,EC,-0.22985,-78.52495,1399814.0
+478,Vineland,Vineland authorities confirmed the spread of Chlamydia,Vineland,US,39.48623,-75.02573,60818.0
+479,Zamboanga,"Sulu, Zamboanga brace for Zika",Zamboanga,PH,6.91028,122.07389,457623.0
+480,Custodia,More Zika patients reported in Custodia,Custódia,BR,-8.0875,-37.64306,18107.0
+481,Tupelo,Tupelo Residents Recieve Syphilis vaccine,Tupelo,US,34.25807,-88.70464,35680.0
+483,Lisbon,Spanish Flu Outbreak in Lisbon,Lisbon,PT,38.71667,-9.13333,517802.0
+484,Madrid,Spanish Flu Spreading through Madrid,Madrid,ES,40.4165,-3.70256,3255944.0
+485,Barcelona,Barcelona Struck by Spanish Flu,Barcelona,ES,41.38879,2.15899,1621537.0
+486,Yakima,The Spread of Dengue in Yakima has been Confirmed,Yakima,US,46.60207,-120.5059,93701.0
+487,Luanda,Tuberculosis Hits Luanda,Luanda,AO,-8.83682,13.23432,2776168.0
+488,Dumai,Will West Nile Virus vaccine help Dumai?,Dumai,ID,1.66711,101.44316,143760.0
+489,Redmond,Rumors about Chlamydia spreading in Redmond have been refuted,Redmond,US,47.67399,-122.12151,60598.0
+490,Concord,Case of Varicella Reported in Concord,Concord,US,37.97798,-122.03107,128667.0
+491,Rockland,Zika virus case reported in Rockland,Rockland,US,42.13066,-70.91616,17982.0
+492,Mankato,Zika investigators coming to Mankato,Mankato,US,44.15906,-94.00915,41044.0
+493,Toms River,Toms River Encounters Severe Symptoms of Respiratory Syncytial Virus,Toms River,US,39.95373,-74.19792,88791.0
+494,Zanzibar,The Spread of Malaria in Zanzibar has been Confirmed,Zanzibar,TZ,-6.16394,39.19793,403658.0
+495,Zanzibar,Malaria Outbreak Hits Zanzibar's Tourist Industry,Zanzibar,TZ,-6.16394,39.19793,403658.0
+496,Arusha,Tourist Perishes from Malaria in Arusha,Arusha,TZ,-3.36667,36.68333,341136.0
+497,New Kingston,Herpes Symptoms Spread all over New Kingston,New Kingston,JM,18.00747,-76.78319,583958.0
+498,Yokohama,More people in Yokohama are infected with Norovirus every year,Yokohama,JP,35.43333,139.65,3574443.0
+499,Kitwe,More people in Kitwe are infected with Respiratory Syncytial Virus every year,Kitwe,ZM,-12.80243,28.21323,400914.0
+500,Bismarck,Hepatitis D Keeps Spreading in Bismarck,Bismarck,US,46.80833,-100.78374,71167.0
+501,Minot,Varicella Outbreak in Minot,Minot,US,48.23251,-101.29627,49450.0
+502,Terrebonne,Malaria has Arrived in Terrebonne,Terrebonne,CA,45.70004,-73.64732,94703.0
+503,North Vancouver,Chikungunya Keeps Spreading in North Vancouver,North Vancouver,CA,49.31636,-123.06934,48000.0
+504,Hemet,Authorities are Worried about the Spread of Chickenpox in Hemet,Hemet,US,33.74761,-116.97307,83861.0
+507,Darien,Rumors about Hepatitis C spreading in Darien have been refuted,Darien,US,41.75198,-87.97395,22256.0
+508,Fairfield,The Spread of West Nile Virus in Fairfield has been Confirmed,Fairfield,US,38.24936,-122.03997,112970.0
+509,Princeton,Princeton Encounters Severe Symptoms of Dengue,Princeton,US,40.34872,-74.65905,29603.0
+510,Copenhagen,Norovirus Keeps Spreading in Copenhagen,Copenhagen,DK,55.67594,12.56553,1153615.0
+511,Wuhan,Wuhan is infested with Varicella,Wuhan,CN,30.58333,114.26667,9785388.0
+512,San Luis Potosi,Zika spreads to San Luis Potosi,San Luis Potosí,MX,22.14982,-100.97916,722772.0
+514,Canberra,Spike of Norovirus Cases in Canberra,Canberra,AU,-35.28346,149.12807,367752.0
+515,Greater Noida,Zika Troubles come to Greater Noida,Greater Noida,IN,28.49615,77.53601,293908.0
+516,Palm Springs,Lower Hospitalization in Palm Springs after Hepatitis A Vaccine becomes Mandatory,Palm Springs,US,33.8303,-116.54529,47371.0
+518,Leesburg,Outbreak of Zika in Leesburg,Leesburg,US,39.11566,-77.5636,51209.0
+519,Cantu,Authorities are Worried about the Spread of Tuberculosis in Cantu,Cantù,IT,45.74096,9.13084,37273.0
+521,Kihei,New medicine wipes out HIV in Kihei,Kīhei,US,20.76462,-156.44578,20881.0
+522,Sangre Grande,Sangre Grande Residents Recieve Gonorrhea vaccine,Sangre Grande,TT,10.58705,-61.13008,15968.0
+523,Colombo,Outbreak of Zika in Colombo,Colombo,LK,6.93548,79.84868,648034.0
+524,Addis Ababa,Will Rotavirus vaccine help Addis Ababa?,Addis Ababa,ET,9.02497,38.74689,2757729.0
+525,University,Stony Brook University experts discuss Zika virus,University,US,28.07389,-82.43902,41163.0
+526,Janesville,Lower Hospitalization in Janesville after Varicella Vaccine becomes Mandatory,Janesville,US,42.68279,-89.01872,64123.0
+527,Altus,Rabies Outbreak in Altus,Altus,US,34.63813,-99.33398,19214.0
+528,Miami,Miami resident suggests Zika precautions,Miami,US,25.77427,-80.19366,441003.0
+529,Jaen,Zika Troubles come to Jaen,Jaen,PH,15.3275,120.9192,39700.0
+530,Edinburgh,Hepatitis B Exposure in Edinburgh,Edinburgh,GB,55.95206,-3.19648,464990.0
+531,Reynosa,Zika case reported in Reynosa,Reynosa,MX,26.08061,-98.28835,589466.0
+532,Tulare,Schools in Tulare Closed Due to Mumps Outbreak,Tulare,US,36.20773,-119.34734,62315.0
+533,Chennai,More Zika patients reported in Chennai,Chennai,IN,13.08784,80.27847,4328063.0
+534,Danvers,Hepatitis D Keeps Spreading in Danvers,Danvers,US,42.57509,-70.93005,26493.0
+535,Miami,Authorities a Miami,Miami,US,25.77427,-80.19366,441003.0
+536,Medellin,Zika case reported in Medellin,Medellín,CO,6.25184,-75.56359,1999979.0
+537,Albuquerque,Spike of Tuberculosis Cases in Albuquerque,Albuquerque,US,35.08449,-106.65114,559121.0
+538,Cranford,More people in Cranford are infected with Hepatitis A every year,Cranford,US,40.65844,-74.29959,22627.0
+539,Monroe,West Nile Virus Hits Monroe,Monroe,US,32.50931,-92.1193,49598.0
+540,Springville,Pneumonia Outbreak in Springville,Springville,US,40.16523,-111.61075,32286.0
+541,San Onofre,Zika arrives in San Onofre,San Onofre,CO,9.73586,-75.52626,32957.0
+542,Moscow,Lung Cancer Rates Increasing in Moscow,Moscow,RU,55.75222,37.61556,10381222.0
+543,Joliet,Rumors about Rotavirus Spreading in Joliet have been Refuted,Joliet,US,41.52519,-88.0834,147861.0
+544,Chanthaburi,More Zika patients reported in Chanthaburi,Chanthaburi,TH,12.60961,102.10447,99819.0
+545,Lawrenceville,Lawrenceville is infested with Dengue,Lawrenceville,US,33.95621,-83.98796,30493.0
+546,Ciudad Acuna,Zika Reported in Ciudad Acuna,Ciudad Acuña,MX,29.32322,-100.95217,134233.0
+547,Limoeiro,Zika case reported in Limoeiro,Limoeiro,BR,-7.87472,-35.45028,42328.0
+548,Ibadan,Ibadan tests new cure for Malaria,Ibadan,NG,7.37756,3.90591,3565108.0
+549,Avon Lake,Gonorrhea has Arrived in Avon Lake,Avon Lake,US,41.50532,-82.0282,23453.0
+550,Kinshasa,Pneumonia has not Left Kinshasa,Kinshasa,CD,-4.32758,15.31357,7785965.0
+551,Henderson,Respiratory Syncytial Virus Hits Henderson,Henderson,US,36.0397,-114.98194,285667.0
+552,Lakeland,More Zika patients reported in Lakeland,Lakeland,US,28.03947,-81.9498,104401.0
+553,Winona,Malaria Vaccine is now Required in Winona,Winona,US,44.04996,-91.63932,27094.0
+554,Canton,More Patients in Canton are Getting Diagnosed with Norovirus,Canton,US,42.30865,-83.48216,86825.0
+555,Ronkonkoma,Ronkonkoma is infested with Chickenpox,Ronkonkoma,US,40.81538,-73.11233,19082.0
+556,Kedougou,Kedougou tests new cure for Hepatitis C,Kédougou,SN,12.55561,-12.18076,17922.0
+557,Norwalk,Gonorrhea Exposure in Norwalk,Norwalk,US,33.90224,-118.08173,107140.0
+558,Medford,How to Avoid Rhinovirus in Medford,Medford,US,42.32652,-122.87559,79805.0
+559,Evansville,Hepatitis D Symptoms Spread all over Evansville,Evansville,US,37.97476,-87.55585,119943.0
+560,Bossier City,New medicine wipes out Herpes in Bossier City,Bossier City,US,32.51599,-93.73212,68094.0
+561,San Jose,Pneumonia Exposure in San Jose,San Jose,US,37.33939,-121.89496,1026908.0
+562,Edinburgh,Authorities are Worried about the Spread of Mad Cow Disease in Edinburgh,Edinburgh,GB,55.95206,-3.19648,464990.0
+563,Duluth,Duluth Patient in Critical Condition after Contracting Rotavirus,Duluth,US,46.78327,-92.10658,86110.0
+565,Norfolk,Norfolk tests new cure for Herpes,Norfolk,US,36.84681,-76.28522,246393.0
+566,Botucatu,More Zika patients reported in Botucatu,Botucatu,BR,-22.88583,-48.445,113862.0
+567,Manassas,Manassas Encounters Severe Symptoms of Measles,Manassas,US,38.75095,-77.47527,41764.0
+568,Fayetteville,Fayetteville authorities confirmed the spread of HIV,Fayetteville,US,35.05266,-78.87836,201963.0
+569,Cambridge,Varicella Exposure in Cambridge,Cambridge,GB,52.2,0.11667,158434.0
+570,Fukushima,Hepatitis A Vaccine is now Required in Fukushima,Fukushima,JP,37.75,140.46667,294237.0
+571,Miami,Zika Outbreak in South Miami,Miami,US,25.77427,-80.19366,441003.0
+572,North Bethesda,Hepatitis D Symptoms Spread all over North Bethesda,North Bethesda,US,39.04455,-77.11887,43828.0
+573,Panama,Panama CityaEUR(tm)s first Zika related death,Panamá,PA,8.9936,-79.51973,408168.0
+574,Dongguan,West Nile Virus has Arrived in Dongguan,Dongguan,CN,23.01797,113.74866,8000000.0
+575,Belmopan,Zika arrives in Belmopan,Belmopan,BZ,17.25,-88.76667,13381.0
+576,Yuma,Zika seminars in Yuma County,Yuma,US,32.72532,-114.6244,94139.0
+577,Morristown,Rumors about Hepatitis E Spreading in Morristown have been Refuted,Morristown,US,36.21398,-83.29489,29478.0
+578,Joplin,Mumps Outbreak in Joplin,Joplin,US,37.08423,-94.51328,51818.0
+580,Corona,Authorities are Worried about the Spread of Mumps in Corona,Corona,US,33.87529,-117.56644,164226.0
+581,Danville,Schools in Danville Closed Due to Tuberculosis Outbreak,Danville,US,37.82159,-121.99996,44400.0
+583,Marquette,Marquette tests new cure for Hepatitis A,Marquette,US,46.54354,-87.39542,21297.0
+584,Anaheim,Norovirus Vaccine is now Required in Anaheim,Anaheim,US,33.83529,-117.9145,350742.0
+585,Manaus,Zika Outbreak in Manaus,Manaus,BR,-3.10194,-60.025,1598210.0
+586,Caucasia,Zika spreads to Caucasia,Caucasia,CO,7.98654,-75.19349,58034.0
+587,Aurora,Case of Malaria Reported in Aurora,Aurora,US,39.72943,-104.83192,359407.0
+588,Manchester,Manchester Residents Recieve Influenza vaccine,Manchester,GB,53.48095,-2.23743,395515.0
+589,Kamphaeng Phet,Zika spreads to Kamphaeng Phet,Kamphaeng Phet,TH,16.48344,99.52153,58787.0
+590,Labasa,Rotavirus Vaccine is now Required in Labasa,Labasa,FJ,-16.4332,179.36451,27949.0
+591,Fargo,The Spread of Hepatitis E in Fargo has been Confirmed,Fargo,US,46.87719,-96.7898,118523.0
+592,Mexicali,Zika Outbreak in Mexicali,Mexicali,MX,32.62781,-115.45446,689775.0
+593,Hauppauge,West Nile Virus Keeps Spreading in Hauppauge,Hauppauge,US,40.82565,-73.20261,20882.0
+594,Hayward,Bronchitis Keeps Spreading in Hayward,Hayward,US,37.66882,-122.0808,158289.0
+597,Plant City,Zika spreads to Plant City,Plant City,US,28.01888,-82.11469,37406.0
+598,Sanaa,Chlamydia Exposure in Sanaa,Sanaa,YE,15.35472,44.20667,1937451.0
+599,North Miami Beach,Zika Reported in North Miami Beach,North Miami Beach,US,25.93315,-80.16255,43971.0
+600,Kensington,More Patients in Kensington are Getting Diagnosed with Varicella,Kensington,US,40.64621,-73.97069,39120.0
+602,Riverside,Case of West Nile Virus Reported in Riverside,Riverside,US,33.95335,-117.39616,322424.0
+603,Northfield,Northfield Encounters Severe Symptoms of Herpes,Northfield,US,44.4583,-93.1616,20380.0
+604,Monroe,The Spread of Respiratory Syncytial Virus in Monroe has been Confirmed,Monroe,US,32.50931,-92.1193,49598.0
+605,Trenton,How to Avoid Hepatitis B in Trenton,Trenton,US,40.21705,-74.74294,84225.0
+606,Ilopango,Zika Reported in Ilopango,Ilopango,SV,13.70167,-89.10944,38890.0
+607,Barstow,Barstow Patient in Critical Condition after Contracting Herpes,Barstow,US,34.89859,-117.02282,23692.0
+608,Aswan,Hepatitis D Exposure in Aswan,Aswan,EG,24.09082,32.89942,241261.0
+609,East Moline,Will Gonorrhea vaccine help East Moline?,East Moline,US,41.50087,-90.4443,21350.0
+610,Redlands,New medicine wipes out Influenza in Redlands,Redlands,US,34.05557,-117.18254,71035.0
+611,Basel,How to Avoid Contaminated Meat when Visiting Basel,Basel,CH,47.55839,7.57327,164488.0
+612,Kampong Speu,More Zika patients reported in Kampong Speu,Kampong Speu,KH,11.45332,104.52085,33231.0
+613,Alameda,Alameda Residents Recieve Rabies vaccine,Alameda,US,37.76521,-122.24164,78630.0
+614,Lyon,Mad Cow Disease Detected in Lyon,Lyon,FR,45.74846,4.84671,472317.0
+615,Memphis,Memphis Encounters Severe Symptoms of Swine Flu,Memphis,US,35.14953,-90.04898,655770.0
+616,Delray Beach,Zika Troubles come to Delray Beach,Delray Beach,US,26.46146,-80.07282,66255.0
+617,Hampton,How to Avoid Chikungunya in Hampton,Hampton,US,37.02987,-76.34522,136454.0
+618,Sao Jose,Zika Reported in Sao Jose,São José,BR,-28.21171,-49.1632,200000.0
+619,Stratford,Case of Norovirus Reported in Stratford,Stratford,US,41.18454,-73.13317,51384.0
+620,South Bend,How to Avoid Hepatitis E in South Bend,South Bend,US,41.68338,-86.25001,101516.0
+621,Bethlehem,Hepatitis C Outbreak in Bethlehem,Bethlehem,ZA,-28.23078,28.30707,83654.0
+622,Davenport,Davenport is infested with Dengue,Davenport,US,41.52364,-90.57764,102582.0
+623,Suzhou,Rumors about Swine Flu spreading in Suzhou have been refuted,Suzhou,CN,31.30408,120.59538,5345961.0
+624,Elyria,Malaria Vaccine is now Required in Elyria,Elyria,US,41.36838,-82.10765,53775.0
+626,Tbilisi,Case of Swine Flu Reported in Tbilisi,Tbilisi,GE,41.69411,44.83368,1049498.0
+629,Suffolk,Influenza Keeps Spreading in Suffolk,Suffolk,US,36.72836,-76.58496,88161.0
+630,Allentown,More people in Allentown are infected with Chlamydia every year,Allentown,US,40.60843,-75.49018,120207.0
+631,Bedford,Mad Cow Disease re-emerges in Bedford,Bedford,GB,52.13459,-0.46632,106940.0
+632,Yiwu,Authorities are Worried about the Spread of Hepatitis B in Yiwu,Yiwu,CN,29.31506,120.07676,89629.0
+633,Yurimaguas,Zika Outbreak in Yurimaguas,Yurimaguas,PE,-5.90181,-76.12234,41827.0
+634,Easton,Dengue Outbreak in Easton,Easton,US,40.68843,-75.22073,26915.0
+635,Milton,Varicella has Arrived in Milton,Milton,CA,43.51681,-79.88294,101715.0
+636,Sevilla,New medicine wipes out Meningitis in Sevilla,Sevilla,ES,37.38283,-5.97317,703206.0
+637,Clovis,Authorities are Worried about the Spread of Varicella in Clovis,Clovis,US,36.82523,-119.70292,104180.0
+638,Fort Worth,More Zika patients reported in Fort Worth,Fort Worth,US,32.72541,-97.32085,833319.0
+639,Boynton Beach,Zika symptoms spotted in Boynton Beach,Boynton Beach,US,26.52535,-80.06643,73966.0
+640,Portoviejo,Outbreak of Zika in Portoviejo,Portoviejo,EC,-1.05458,-80.45445,170326.0
+641,Muscat,Influenza Exposure in Muscat,Muscat,OM,23.58413,58.40778,797000.0
+642,Jerusalem,Rumors about Rabies spreading in Jerusalem have been refuted,Jerusalem,IL,31.76904,35.21633,801000.0
+643,Indang,More Zika patients reported in Indang,Indang,PH,14.19528,120.87694,41159.0
+644,Suva,Suva authorities confirmed the spread of Rotavirus,Suva,FJ,-18.14161,178.44149,77366.0
+645,Bella Vista,More Zika patients reported in Bella Vista,Bella Vista,DO,18.45539,-69.9454,175683.0
+646,Wichita Falls,Zika Outbreak in Wichita Falls,Wichita Falls,US,33.91371,-98.49339,104710.0
